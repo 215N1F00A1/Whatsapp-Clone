@@ -59,7 +59,7 @@ Run the frontend app
 
 cd ../frontend
 npm run dev
-Open your browser at http://localhost:3000 (or the port configured)
+Open your browser at http://localhost:5173/ (or the port configured)
 
 Usage
 The backend ingests webhook payloads (JSON files) and stores messages in MongoDB
